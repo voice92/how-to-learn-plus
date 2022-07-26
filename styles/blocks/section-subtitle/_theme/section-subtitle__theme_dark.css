@@ -1,0 +1,8 @@
+.section-subtitle_theme_dark {
+  color: #ffffff;
+}
+
+.section-subtitle_theme_dark { 
+  z-index: 2;
+  position: relative;
+}

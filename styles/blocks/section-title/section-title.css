@@ -1,0 +1,11 @@
+@import './_theme/section-title_theme_dark.css';
+
+.section-title {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 60px;
+    line-height: 1.15;
+    font-weight: 600;
+    padding-bottom: 20px;
+    text-align: center;
+}
