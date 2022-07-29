@@ -1,0 +1,6 @@
+.table__cell {
+  width: 250px;
+  padding-top: 60px;
+  box-sizing: border-box;
+  text-align: left;
+}
